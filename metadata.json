@@ -1,0 +1,6 @@
+{
+  "name": "Fluow - Painel de Controle",
+  "description": "Painel para gerenciar múltiplas instâncias da Evolution API, com planos de cliente, métricas e controles de integração. Inclui um backend completo em Node.js que fornece a API, lida com automações e atua como um proxy seguro para integrações de terceiros.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
